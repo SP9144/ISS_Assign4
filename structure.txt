@@ -1,0 +1,135 @@
+.
+├── Answers.db
+├── app.py
+├── __pycache__
+│   ├── app.cpython-35.pyc
+│   ├── app.cpython-36.pyc
+│   ├── __init__.cpython-35.pyc
+│   ├── __init__.cpython-36.pyc
+│   ├── routes.cpython-35.pyc
+│   ├── routes.cpython-36.pyc
+│   ├── utils.cpython-35.pyc
+│   └── utils.cpython-36.pyc
+├── readme.md
+├── requirements.sh
+├── run.py
+├── static
+│   ├── css
+│   │   ├── bootstrap.min.css
+│   │   ├── common.css
+│   │   ├── default.css
+│   │   ├── font-awesome.css
+│   │   ├── override.css
+│   │   ├── owl.carousel.css
+│   │   ├── owl.theme.css
+│   │   ├── prettify.css
+│   │   ├── style1.css
+│   │   └── style.css
+│   ├── images
+│   │   ├── about-us
+│   │   │   ├── img1.png
+│   │   │   ├── img2.png
+│   │   │   ├── img3.png
+│   │   │   └── img4.png
+│   │   ├── banner_img.jpg
+│   │   ├── bottom-line-n.png
+│   │   ├── bottom-line.png
+│   │   ├── chat.png
+│   │   ├── deivder-green-v.png
+│   │   ├── devider-blue-v-o.png
+│   │   ├── devider-green-v-o.png
+│   │   ├── dotted-devider-h-o.png
+│   │   ├── dotted-devider-h.png
+│   │   ├── _dotted-devider.png
+│   │   ├── dotted-devider-v-o.png
+│   │   ├── engineering
+│   │   │   ├── icon_1.png
+│   │   │   ├── icon_2.png
+│   │   │   ├── icon_3.png
+│   │   │   ├── icon_4.png
+│   │   │   ├── icon_5.png
+│   │   │   ├── icon_6.png
+│   │   │   ├── icon_7.png
+│   │   │   ├── icon_8.png
+│   │   │   ├── icon_9.png
+│   │   │   └── old
+│   │   │       ├── biotechnology-eng.png
+│   │   │       ├── chamical-eng.png
+│   │   │       ├── chemical-sci.png
+│   │   │       ├── civil-eng.png
+│   │   │       ├── electrical-eng.png
+│   │   │       └── electronics-eng.png
+│   │   ├── favicon.ico
+│   │   ├── favicon.png
+│   │   ├── flask.png
+│   │   ├── footer-o.png
+│   │   ├── _footer.png
+│   │   ├── footer.png
+│   │   ├── icon_chat.png
+│   │   ├── icon_lab.png
+│   │   ├── iit
+│   │   │   ├── amrita.jpeg
+│   │   │   ├── amrita.png
+│   │   │   ├── dayalbagh.jpeg
+│   │   │   ├── iit-delhi.png
+│   │   │   ├── iit-guwahati.png
+│   │   │   ├── iithyderabad.jpeg
+│   │   │   ├── iit-kanpur.png
+│   │   │   ├── iit-kharagpur.png
+│   │   │   ├── iit-madras.png
+│   │   │   ├── iit-mumbai.png
+│   │   │   ├── iit-roorkee.png
+│   │   │   ├── nit.jpeg
+│   │   │   ├── pune.jpeg
+│   │   │   └── rsz_1amrita.jpg
+│   │   ├── left-arrow.png
+│   │   ├── logo-new.png
+│   │   ├── logo.png
+│   │   ├── right-arrow.png
+│   │   ├── search-box.png
+│   │   ├── search.png
+│   │   ├── slider-72.png
+│   │   ├── slider.png
+│   │   ├── social
+│   │   │   ├── fb.png
+│   │   │   ├── linkedin.png
+│   │   │   └── twitter.png
+│   │   ├── students.png
+│   │   └── uni-logos
+│   │       ├── amruta university.png
+│   │       ├── amrutauniversity.png
+│   │       ├── COEP.png
+│   │       ├── dayalbagh.png
+│   │       ├── iiit_Hyd.png
+│   │       ├── IIT_bombay.png
+│   │       ├── IIT_Delhi.png
+│   │       ├── IIT_guwahati.png
+│   │       ├── IIT_hyderabad.png
+│   │       ├── IIT_kanpur.png
+│   │       ├── IIT_kharagpur.png
+│   │       ├── IIT_madras.png
+│   │       ├── IIT_roorkee.png
+│   │       └── NIIT_karnataka.png
+│   └── js
+│       ├── bootstrap.min.js
+│       ├── custom.js
+│       ├── exp.js
+│       ├── jquery.js
+│       └── owl.carousel.js
+├── structure.txt
+└── templates
+    ├── Assignment.html
+    ├── Experiment.html
+    ├── Feedback.html
+    ├── Further.html
+    ├── Introduction.html
+    ├── layout.html
+    ├── media
+    │   └── PKCS1.pdf
+    ├── Objective.html
+    ├── Procedure.html
+    ├── Quizzes.html
+    ├── show_all.html
+    └── Theory.html
+
+13 directories, 119 files
