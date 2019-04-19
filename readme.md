@@ -43,12 +43,12 @@ we get M back.
 
 <br>
 
-## view your Quiz Submissions:
+##  View your Quiz Submissions:
 
 'url'/show_all 
 
 <br>
-## DESIGN PATTERNS
+##  DESIGN PATTERNS
 
 <ol>
 <li> <strong>Factory pattern</strong> while initializing the database. An empty constructor is used to create an instant of the database object in the models.py file but the app context is added in app.py. </li>
