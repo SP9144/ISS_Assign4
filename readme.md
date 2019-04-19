@@ -48,7 +48,8 @@ we get M back.
 'url'/show_all 
 
 <br>
-##  DESIGN PATTERNS
+
+##  Design Patterns:
 
 <ol>
 <li> <strong>Factory pattern</strong> while initializing the database. An empty constructor is used to create an instant of the database object in the models.py file but the app context is added in app.py. </li>
