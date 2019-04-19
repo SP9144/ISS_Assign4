@@ -45,13 +45,13 @@ we get M back.
 
 ## view your Quiz Submissions:
 
-<\< url \>>/show_all 
+'url'/show_all 
 
 <br>
 ## DESIGN PATTERNS
 
 <ol>
-<li> Factory pattern while initializing the database. An empty constructor is used to create an instant of the database object in the models.py file but the app context is added in app.py. </li>
+<li> <strong>Factory pattern</strong> while initializing the database. An empty constructor is used to create an instant of the database object in the models.py file but the app context is added in app.py. </li>
 
-<li> Singleton pattern while initializing the database. There cannot exist two different instants of the database object at some point of time, that is why a singleton pattern is alays used when initializing a database connection object. </li>
+<li> <strong>Singleton pattern</strong> while initializing the database. There cannot exist two different instants of the database object at some point of time, that is why a singleton pattern is alays used when initializing a database connection object. </li>
 </ol>
